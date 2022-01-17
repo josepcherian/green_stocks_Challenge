@@ -31,7 +31,7 @@ Run times for the original code took around .4 seconds.
 Run times for the refactored code took around .08 seconds, which is displayed in scientific notation: 8 E -02.
 
 ![Pic 4](https://github.com/josepcherian/green_stocks_Challenge/blob/main/4%202017_Refactored%20for%200.08%20sec.png)
-![Pic 5][https://github.com/josepcherian/green_stocks_Challenge/blob/main/5%202018_Refactored%20for%200.08%20sec.png)
+![Pic 5](https://github.com/josepcherian/green_stocks_Challenge/blob/main/5%202018_Refactored%20for%200.08%20sec.png)
 
 
 Refactoring the code did make the run times decrease, which optimizes the code. 
